@@ -1,0 +1,133 @@
+nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-left: 25%;
+    /* color: white; */
+    /* padding: 5% 5% 0% 25%;
+    gap: 15px; */
+}
+body{
+   background-color: rgb(34, 33, 33);
+   color: white;
+   font-size: larger; 
+}
+.button{
+    border-radius: 10px;
+    padding: 7px 20px;
+    background-color: greenyellow;
+    /* border-color: blue; */
+    /* color: white; */
+    /* background-color: blue; */
+
+}
+#secure{
+    color: #2b8a3e;
+}
+#crypto{
+    color: #228be6;
+}
+.section5{
+    display: flex;
+    margin-left: 8%;
+}
+.information{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.section2{
+    margin-top: 5%;
+    /* display: flex; */
+}
+.section3{
+    display: flex;
+}
+.section4{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.outline{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(250, 246, 246); */
+    color: white;
+    margin-top: 1%;
+}
+#list{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    background-color: greenyellow;
+    color: black;
+    /* height: 200%; */
+    padding: 4%;
+    font-size: xx-large;
+}
+.emailbar{
+    border-radius: 10px;
+    padding: 7px 20px;
+
+}
+.section1{
+    display: flex;
+    margin-top: 5%;
+}
+table,tr,th,td{
+    border-style: ridge;border-spacing: 4px;width: 80%; border-color: rgb(51, 50, 50);
+    margin-left: 8%;
+    margin-top: -5%;
+}
+#statement{
+    text-align: center;
+    color: yellowgreen;
+}
+#sentence{
+    color: #2b8a3e;
+}
+.subsection{
+    display: flex;
+    margin-left: 35%;
+    margin-top: -30%;
+    margin-bottom: 15%;
+}
+.bar2{
+    margin-left: 78%;
+    margin-bottom: 10%;
+}
+#tabb{
+    width: 200%;
+}
+.bar{
+    text-align: center;
+    margin-top: 5%;
+    background-color: #343a40;
+}
+.box{
+    margin-left: 12%;
+}
+.features{
+    margin-left: 3%;
+}
+.sec{
+    margin-left: 5%;
+}
+.box5{
+    margin-bottom: 10%;
+    
+}
+.words{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#text{
+    margin-left: 8%;
+}
+.home{
+    color: yellowgreen;
+}
+#heading {
+    margin-left: 8%;
+     margin-top: 3%; 
+}
+/* .table{
+    margin-left: 12%;
+} */
