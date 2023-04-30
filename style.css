@@ -6,6 +6,8 @@ nav{
     /* padding: 5% 5% 0% 25%;
     gap: 15px; */
 }
+
+ 
 body{
    background-color: rgb(34, 33, 33);
    color: white;
@@ -62,9 +64,10 @@ body{
     padding: 4%;
     font-size: xx-large;
 }
-.emailbar{
-    border-radius: 10px;
-    padding: 7px 20px;
+#emailbar{
+    /* border-radius: 10px; */
+    /* padding: 7px 20px; */
+    border-radius: 30px;
 
 }
 .section1{
@@ -79,6 +82,8 @@ table,tr,th,td{
 #statement{
     text-align: center;
     color: yellowgreen;
+    border-radius: 30px;
+    padding: 2px;
 }
 #sentence{
     color: #2b8a3e;
@@ -100,6 +105,7 @@ table,tr,th,td{
     text-align: center;
     margin-top: 5%;
     background-color: #343a40;
+
 }
 .box{
     margin-left: 12%;
@@ -127,6 +133,10 @@ table,tr,th,td{
 #heading {
     margin-left: 8%;
      margin-top: 3%; 
+}
+.last{
+    display: flex;
+    justify-content: space-between;
 }
 /* .table{
     margin-left: 12%;
